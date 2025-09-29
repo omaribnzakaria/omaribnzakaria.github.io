@@ -15,6 +15,6 @@ layout: default
 <mewavy007@gmail.com>
 
 ## Cool stuff
-check out my [unblocked games(broken rn)](/ublckdgms)
+check out my [unblocked games](/ublckdgms)
 
 this page is under construction
