@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omaribnzakaria.github.io/lesitemarp.xml
